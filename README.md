@@ -29,8 +29,8 @@ Claude can handle the setup from there: installing what the project needs, start
 ## Good first things to ask Claude
 
 - Install this project on locally so I can develop and write tests on my computer
-- Install my app on https://www.vegaverse.net/_lyra/.  First step to do this is merge in the lyra code branch on this repo.
-- Add Authentication using https://arcturus.vegaverse.net/
+- Install my app on <vegaverse URL>  First step to do this is merge in the lyra code branch on this repo.
+- Add Authentication using <arcturus URL>
 
 ## What you'll need
 
